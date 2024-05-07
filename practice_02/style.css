@@ -1,0 +1,25 @@
+.top {
+  color: white;
+  display: flex;
+  justify-content: right;
+  font-size: 10px;
+}
+
+body {
+  background-color: gray;
+}
+
+.top-child {
+  margin: 17px  10px;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.top-child2 {
+  margin: 17px  10px;
+  text-align: center;
+  padding: 10px 0;
+  background-color: red;
+  border-radius: 50%;
+  width: 70px;
+}
